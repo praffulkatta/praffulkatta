@@ -3,7 +3,7 @@
   💻 2nd Year CSE Student | 🧠 Learning DSA & ML | ⌛ Green Box Streaker
 </p>
 
----
+
 ---
 
 ### 🚀 About Me
@@ -11,7 +11,7 @@
 - 🧩 I believe in **consistency over perfection**  
 - 📅 Coding every day to keep my **green graph alive**
 
----
+
 ---
 
 ### 🛠️ Tech Stack
@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
 ---
 
 ### 🔗 Connect With Me
